@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller output
+build/
+dist/
+
+# Temporary/autosaved files
+*Autosaved*
+
+# Optional: local counter/data file
+itsrr_counters.json
